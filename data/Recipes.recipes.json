@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "6593edbb313261c0fbbe351a"
+  },
+  "name": "Shakshouka",
+  "description": "In a well-heated skillet, heat olive oil over medium heat and sauté finely chopped onions until translucent and lightly caramelized. Introduce minced garlic and diced bell peppers to the skillet, allowing them to soften and release their fragrant oils.\r\n Incorporate diced ripe tomatoes, letting them break down and meld into a thick sauce. Season generously with paprika, cumin, and chili flakes, ensuring a harmonious blend of spices throughout the bubbling mixture.\r\n Create small pockets within the sauce and carefully crack fresh eggs into these indentations, managing their placement for even cooking. Cover the skillet, allowing the eggs to gently poach in the simmering sauce until the whites set while the yolks retain a slight runniness.\r\n Finish this culinary orchestration with a sprinkling of fresh parsley or cilantro, lending a final burst of color and herbaceous aroma to the delectable Shakshouka.",
+  "ingredients": [
+    "olive oil",
+    "onion",
+    "garlic",
+    "bell peppers",
+    "ripe tomatoes",
+    "paprika",
+    "ground cumin",
+    "chili flakes",
+    "salt",
+    "pepper",
+    "eggs",
+    "fresh parsley or cilantro"
+  ],
+  "category": "Breakfast",
+  "image": "shakshouka.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593edbb313261c0fbbe351b"
+  },
+  "name": "Butter Chicken, Steamed Rice, and Naan Bread",
+  "description": "Begin by marinating boneless chicken pieces in a blend of plain yogurt and the specified spices. Heat a mixture of butter and vegetable oil in a skillet. Sauté finely chopped onions until they turn golden brown and release their flavors. Introduce the marinated chicken to the skillet and cook until it browns evenly on all sides. Add diced tomatoes or tomato puree, along with chili powder, sugar, and additional salt if needed. Allow the mixture to simmer until the chicken becomes tender. Incorporate heavy cream into the sauce, creating a creamy texture, and simmer gently until the sauce thickens. Rinse basmati rice thoroughly until the water runs clear to remove excess starch and cook it according to the package instructions. For the naan breads, start by preparing the dough, mixing all-purpose flour, active dry yeast, sugar, salt, warm water, and yogurt until a smooth dough forms. Let the dough rise until it doubles in size, then divide it into portions and shape each into a naan bread form. Cook the shaped naan bread on a skillet or griddle until golden brown spots appear on both sides. Brush them with melted butter for added richness. Garnish the Butter Chicken with freshly chopped cilantro leaves before serving. Plate the Butter Chicken alongside the fragrant steamed basmati rice and warm, freshly cooked naan bread.",
+  "ingredients": [
+    "500 grams boneless chicken, cut into bite-sized pieces",
+    "2 cups plain yogurt",
+    "3 tablespoons butter",
+    "1 tablespoon vegetable oil",
+    "2 onions, finely chopped",
+    "4 cloves garlic, minced",
+    "1-inch piece of ginger, minced or grated",
+    "2 teaspoons garam masala",
+    "1 teaspoon ground turmeric",
+    "1 teaspoon ground cumin",
+    "1 teaspoon ground coriander",
+    "1 teaspoon chili powder (adjust to taste)",
+    "1 can (400g) diced tomatoes or tomato puree",
+    "1/2 cup heavy cream",
+    "Sugar (to taste)",
+    "Salt (to taste)",
+    "Fresh cilantro leaves for garnish",
+    "1 cup basmati rice",
+    "Water",
+    "2 cups all-purpose flour",
+    "1 teaspoon active dry yeast"
+  ],
+  "category": "Indian Food",
+  "image": "butter-chicken.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593edbb313261c0fbbe351c"
+  },
+  "name": "Caramel Cheesecake",
+  "description": "For the caramel sauce, in a heavy-bottomed saucepan, heat granulated sugar over medium heat, stirring continuously until it melts and turns into an amber-colored liquid. Add butter cubes to the melted sugar, stirring constantly until butter is fully incorporated. Slowly pour in heavy cream while stirring vigorously. Continue stirring until the sauce is smooth and slightly thickened. Add a pinch of salt for flavor.\r\n\r\nFor the crust, preheat your oven to 350°F (175°C) and grease a 9-inch springform pan. In a bowl, mix graham cracker crumbs, sugar, and melted butter until well combined. Press the mixture firmly onto the bottom of the prepared springform pan. Bake for 8-10 minutes.\r\n\r\nIn a large mixing bowl, beat softened cream cheese until smooth using a hand mixer or stand mixer. Gradually add sugar and beat until combined. Mix in vanilla extract. Add eggs one at a time, mixing well after each addition. Stir in sour cream until fully incorporated. Gently fold in 1/2 cup of caramel sauce into the cheesecake batter. Be careful not to overmix.\r\n\r\nAssemble and bake for about 50-60 minutes or until the edges are set and the center is slightly wobbly. Once chilled and set, carefully remove the cheesecake from the springform pan. Drizzle additional caramel sauce over the top before serving. Slice and enjoy your delicious homemade caramel cheesecake!",
+  "ingredients": [
+    "1 1/2 cups graham cracker crumbs",
+    "1/4 cup granulated sugar",
+    "1/2 cup unsalted butter, melted",
+    "24 oz (680g) cream cheese, softened",
+    "3/4 cup granulated sugar",
+    "3 large eggs",
+    "1 teaspoon vanilla extract",
+    "1/2 cup sour cream",
+    "1 cup granulated sugar",
+    "6 tablespoons unsalted butter, cubed",
+    "1/2 cup heavy cream",
+    "Pinch of salt"
+  ],
+  "category": "Dessert",
+  "image": "caramel-cheesecake.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593edbb313261c0fbbe351d"
+  },
+  "name": "Spaghetti Carbonara",
+  "description": "Bring a large pot of salted water to a boil. Cook the spaghetti according to package instructions until al dente. Reserve about 1 cup of pasta cooking water before draining the spaghetti.\r\nIn a mixing bowl, whisk together the eggs and Pecorino Romano cheese until well combined. Season with a generous amount of freshly ground black pepper.\r\nIn a large skillet over medium heat, cook the diced guanciale until crispy. Reduce the heat to low. Add the cooked spaghetti to the skillet with the guanciale and toss everything together to combine.\r\nRemove the skillet from the heat. Quickly pour the egg and cheese mixture over the hot spaghetti while continuously tossing the pasta to coat it evenly. Add a splash of the reserved pasta water if needed to create a creamy sauce.\r\nEnsure the heat is off to avoid scrambling the eggs. The residual heat will cook the eggs gently. Serve the spaghetti carbonara immediately while it's hot and enjoy!",
+  "ingredients": [
+    "12 oz (340g) spaghetti",
+    "4 large eggs",
+    "1 cup grated Pecorino Romano cheese",
+    "8 slices of guanciale, diced",
+    "Freshly ground black pepper",
+    "Salt to taste"
+  ],
+  "category": "Italian Food",
+  "image": "carbonara.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593edbb313261c0fbbe351e"
+  },
+  "name": "Beef Burger",
+  "description": "In a mixing bowl, combine the ground beef, finely chopped onion, minced garlic, Worcestershire sauce, Dijon mustard, salt, and black pepper. Mix gently until the ingredients are well incorporated.\n Divide the mixture into 4 equal portions and shape each portion into a patty, ensuring they are slightly larger than the size of the hamburger buns to allow for shrinkage during cooking.\n Preheat a grill or skillet over medium-high heat. Cook the burger patties for about 4-5 minutes on each side or until they reach your desired level of doneness. If adding cheese, place a slice on each patty during the last minute of cooking to melt.\n While the patties are cooking, lightly toast the hamburger buns on the grill or in a toaster.\n Assemble the burgers by placing the cooked patties on the bottom halves of the toasted buns. Add your preferred toppings and condiments on top of the patties and cover them with the top halves of the buns and serve immediately. Enjoy your classic beef burgers!",
+  "ingredients": [
+    "1 lb (450g) ground beef",
+    "1/2 onion, finely chopped",
+    "2 cloves garlic, minced",
+    "1 tablespoon Worcestershire sauce",
+    "1 teaspoon Dijon mustard",
+    "Salt and freshly ground black pepper to taste",
+    "4 hamburger buns",
+    "Your choice of toppings (lettuce, tomato, onion, cheese, etc.)",
+    "Your favorite condiments (ketchup, mustard, mayonnaise, etc.)"
+  ],
+  "category": "American Food",
+  "image": "burger.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65954ee0da1597fa4cefc9c8"
+  },
+  "name": "BLT Sandwich",
+  "description": "Heat a skillet or frying pan over medium heat. Add the bacon slices and cook until they are crispy and golden brown. Toast the bread slices in a toaster or on a griddle.\n Spread a layer of mayonnaise or aioli on one side of each toasted bread slice.\n On 4 of the bread slices (mayonnaise side up), arrange the lettuce leaves, tomato slices, and crispy bacon.\n Season the tomatoes with a pinch of salt and freshly ground black pepper for added flavor.\n Top the assembled sandwiches with the remaining bread slices (mayonnaise side down) to complete the BLT sandwiches.\n Serve the classic BLT sandwiches immediately and enjoy the delicious combination of flavors!",
+  "ingredients": [
+    "8 slices of bacon",
+    "8 slices of bread (white, wheat, or your choice)",
+    "2 ripe tomatoes, sliced",
+    "4 lettuce leaves (romaine, iceberg, or your preference)",
+    "Mayonnaise or aioli for spreading",
+    "Salt and freshly ground black pepper to taste"
+  ],
+  "category": "American Food",
+  "image": "blt.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6595f9ca772f66e9811f807d"
+  },
+  "name": "Potato Salad",
+  "description": "Boil the peeled and cubed potatoes in salted water until fork-tender, about 10-12 minutes. \r\nIn a large mixing bowl, combine the cooled potatoes, chopped hard-boiled eggs, cooked green peas, diced carrots, chopped dill pickles, and finely chopped red onion.\r\nIn a separate bowl, prepare the dressing by mixing mayonnaise, sour cream, white vinegar, mustard, salt, and pepper.\r\nPour the dressing over the potato mixture and gently toss until all ingredients are evenly coated.\r\n Refrigerate the potato salad for at least an hour before serving to allow the flavors to meld together.\r\nGarnish with chopped fresh parsley (optional) before serving. \r\nEnjoy your Romanian Potato Salad!",
+  "ingredients": [
+    "4 large potatoes, peeled and cubed",
+    "3 hard-boiled eggs, chopped",
+    "1 cup cooked green peas",
+    "1 cup diced carrots, cooked",
+    "1/2 cup chopped dill pickles",
+    "1 small red onion, finely chopped",
+    "1/2 cup mayonnaise",
+    "2 tablespoons sour cream",
+    "2 tablespoons white vinegar",
+    "1 tablespoon mustard",
+    "Salt and pepper to taste",
+    "Chopped fresh parsley for garnish (optional)"
+  ],
+  "category": "Romanian Food",
+  "image": "1704327626620download.jpeg",
+  "__v": 0
+}]

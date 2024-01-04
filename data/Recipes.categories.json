@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "659370f1944b0d931878dda2"
+  },
+  "name": "American Food",
+  "image": "american-food.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659370f1944b0d931878dda3"
+  },
+  "name": "Asian Food",
+  "image": "asian-food.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659370f1944b0d931878dda4"
+  },
+  "name": "Breakfast",
+  "image": "breakfast.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659370f1944b0d931878dda5"
+  },
+  "name": "Dessert",
+  "image": "dessert.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659370f1944b0d931878dda6"
+  },
+  "name": "Indian Food",
+  "image": "indian-food.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659370f1944b0d931878dda7"
+  },
+  "name": "Italian Food",
+  "image": "italian-food.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659370f1944b0d931878dda8"
+  },
+  "name": "Romanian Food",
+  "image": "romanian-food.jpg",
+  "__v": 0
+}]
