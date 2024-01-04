@@ -1,0 +1,46 @@
+<div class="px-4 py-5 my-5 text-center">
+    <h1 class="display-5 fw-bold"> Edit Recipe</h1>
+    <div class="col-lg-6 mx-auto">
+      <p class="lead">New flavour combination discovered? Note it here. :)</p>
+    </div>
+  </div>
+  
+  
+  <div class="row justify-content-center">
+    <div class="col-8">
+      <form action="/recipe/<%- recipe._id %>/update" method="POST">
+  
+        <div class="row g-3">
+          <div class="col-12">
+            <label for="name" class="form-label">Recipe Name</label>
+            <input type="text" id="name" name="name" class="form-control" value="<%- recipe.name %>" required>
+          </div>
+          
+          <div class="col-12">
+            <label for="description" class="form-label">Description</label>
+            <textarea id="description" name="description" class="form-control" cols="30" rows="4" required><%- recipe.description %></textarea>
+          </div>
+  
+          <div class="col-12">
+            <label for="category">Select Category</label>
+            <select class="form-select form-control" name="category" aria-label="Category" required>
+              <option disabled>Select Category</option>
+              <!-- Include options for categories -->
+              <option value="American Food" <% if(recipe.category === 'American Food') { %> selected <% } %>>American Food</option>
+              <option value="Asian Food"<% if(recipe.category === 'Asian Food') { %> selected <% } %>>Asian Food</option>
+              <option value="Breakfast"<% if(recipe.category === 'Breakfast') { %> selected <% } %>>Breakfast</option>
+              <option value="Dessert"<% if(recipe.category === 'Dessert') { %> selected <% } %>>Dessert</option>
+              <option value="Indian Food"<% if(recipe.category === 'Indian Food') { %> selected <% } %>>Indian Food</option>
+              <option value="Italian Food"<% if(recipe.category === 'Italian Food') { %> selected <% } %>>Italian Food</option>
+              <option value="Romanian Food<% if(recipe.category === 'Romanian Food') { %> selected <% } %>">Romanian Food</option>
+            </select>
+          </div>
+  
+          <div class="col-12">
+            <button type="submit" class="btn btn-dark">Update Recipe</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  
