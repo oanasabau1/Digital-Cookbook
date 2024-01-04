@@ -1,7 +1,7 @@
 # Digital Cookbook
 
 Digital Cookbook is a web application that serves as an online platform to store and explore diverse recipes. This project aims to provide users with a curated collection of recipes, allowing them to discover personal culinary creations.
-It is developed using Node.js, Express and MongoDB and uses different npm packages, EJS, Bootstrap and Monogoose.
+It is developed using Node.js, Express and MongoDB and uses different npm packages, EJS, Bootstrap and Mongoose.
 
 
 ## Features
