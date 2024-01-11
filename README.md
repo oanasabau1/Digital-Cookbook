@@ -31,6 +31,3 @@ It is developed using Node.js, Express and MongoDB and uses different npm packag
 
 
 
-
-A big shout-out to YouTuber and developer [@RaddyDev](https://github.com/RaddyTheBrand). His project was the biggest inspiration and served as a reference for creating this Digital Cookbook application. His guidance, tutorials, and open-source contributions were instrumental in understanding and implementing several features within this project.
-
