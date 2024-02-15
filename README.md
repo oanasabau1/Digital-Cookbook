@@ -29,5 +29,4 @@ It is developed using Node.js, Express and MongoDB and uses different npm packag
 ![Screenshot 2024-01-05 002513](https://github.com/oanasabau1/Digital-Cookbook/assets/115418520/9cdb28c2-035b-48b5-a7fb-25ea7fb0c8e6)
 
 
-
-
+A big thank you for RaddyTheBrand (https://github.com/RaddyTheBrand) for developing this project.
